@@ -6,7 +6,7 @@ For some reason the html pulled is not exactly the same as what i'm seeing on th
 Could'nt make the '/n' go away so I used a .strip('/n')
 
 Scrape 2 
-The link to a full size image, actually doesn't really give you a high res image, so I used the one on the site
+The button with link to a full size image, actually doesn't really give you a high res image, so I used the image on the site
 
 Scrape 3
 Scraping the table, then do some cleaning up
